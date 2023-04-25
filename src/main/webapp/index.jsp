@@ -14,5 +14,10 @@
     <body>
         <h1>proyecto git</h1>
         <h2>AAAAAAAAAAAAAAA</h2>
+        <table>
+            <tr>
+                <td>aaaaaaaaaaaaaaaaaaaaaaaaaaa</td>
+            </tr>
+        </table>    
     </body>
 </html>
